@@ -1,0 +1,60 @@
+p.ak1:before
+	{
+	content:"D"
+	}
+p.ak2:before
+	{
+	content:"D"
+	}
+	
+p.ak1
+	{
+	size: 20pt;
+	color: red;
+	}
+	
+p.ak1:first-letter 
+	{
+	font-size: 121pt;
+	color: gold;
+	}
+	
+p.ak2
+	{
+	size: 21pt;
+	color: red;
+	}
+	
+p.ak2:first-letter 
+	{
+	font-size: 121pt;
+	color: yellow;
+	}
+	
+h1	{
+	color: purple;
+	font-size:20;
+	}
+h1:first-letter
+	{
+	color:silver;
+	font-size: 50pt;
+	}
+	
+p.fl
+	{
+	size: 30pt;
+	color: purple;
+	}
+	
+p.fl:first-letter
+	{
+	font-size: 60pt;
+	color: red;
+	}
+	
+p.fl:first-line
+	{
+	font-size: 10pt;
+	color: red;
+	}
